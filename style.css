@@ -1,0 +1,25 @@
+.one{
+    display: inline;
+    
+}
+.one{
+    padding: 20px;
+}
+ul{
+    display: inline;
+}
+ul{
+    padding-left: 20px;
+}
+li{
+    padding-left: 20px;
+}
+.two{
+    display: inline;
+}
+.two{
+    padding: 20px;
+}
+li:hover{
+    
+}
